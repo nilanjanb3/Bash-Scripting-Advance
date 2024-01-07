@@ -9,15 +9,14 @@ This is an **in-progress** repo contains Advanced Bash Scripting Learnings
 * 02-Conventions
     * [01-Conventions](https://www.linkedin.com/pulse/bash-scripting-conventions-engin-polat/)
 * 03-Basics
-    * [01-Basics](https://github.com/nilanjanb3/shell-script)
-* 04
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+    * [01-Bash Scripting Basics](https://github.com/nilanjanb3/shell-script)
+    * [02-Functions](https://www.geeksforgeeks.org/shell-scripting-functions-and-its-types/)
+    * [03-Command Line Argument](https://www.geeksforgeeks.org/bash-script-how-to-use-command-line-arguments/)
+    * [04-TTY & PID in Linux](https://www.geeksforgeeks.org/tty-command-in-linux-with-examples/)
+    * [05-Shell Built-in Commands](https://linuxhandbook.com/shell-builtin-commands/)
+    * [06-Shell Keywords](https://veewom.com/linux-programming/shell-keywords.htm)
+    * [07-Understanding Guard Clause in General](https://deviq.com/design-patterns/guard-clause)
+    * [08-Shebang](https://www.tutorialspoint.com/using-shebang-hash-in-linux-scripts)
     * []()
     * []()
     * []()
