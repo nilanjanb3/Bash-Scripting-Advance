@@ -19,7 +19,7 @@ cd $WORKDIR
 git clone $REPO_URL
 cd $REPO_NAME
 
-# Build or compile your application if needed
+# Build and Packaging your application if needed
 echo "Building or compiling the application..."
 ./mvnw package
 

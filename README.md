@@ -1,5 +1,5 @@
 # Bash-Scripting-Advance
-This is a **in-progress** repo contains Advanced Bash Scripting Learnings
+This is an **in-progress** repo contains Advanced Bash Scripting Learnings
 
 ### Table of Content
 * 01-Introduction
@@ -8,7 +8,9 @@ This is a **in-progress** repo contains Advanced Bash Scripting Learnings
     * [03-Shell or Bash?](https://www.geeksforgeeks.org/difference-between-sh-and-bash/)
 * 02-Conventions
     * [01-Conventions](https://www.linkedin.com/pulse/bash-scripting-conventions-engin-polat/)
-    * []()
+* 03-Basics
+    * [01-Basics](https://github.com/nilanjanb3/shell-script)
+* 04
     * []()
     * []()
     * []()
