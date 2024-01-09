@@ -17,6 +17,7 @@ This is an **in-progress** repo contains Advanced Bash Scripting Learnings
     * [06-Shell Keywords](https://veewom.com/linux-programming/shell-keywords.htm)
     * [07-Understanding Guard Clause in General](https://deviq.com/design-patterns/guard-clause)
     * [08-Shebang](https://www.tutorialspoint.com/using-shebang-hash-in-linux-scripts)
+* 04-Streams
     * []()
     * []()
     * []()
