@@ -1,11 +1,8 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-string1="hello"
-string2="hello"
+IFS=" " read -ra words <<< "the quick brown fox jumps over the lazy dog"
 
-
-if test "$string1" = "$string2"; then
-    echo "The strings are equal."
-else
-    echo "The strings are not equal."
-fi
+for (( i=0; i<${#words[@]}; i++ ))
+do
+    echo "$i: ${words[i]}"
+done
